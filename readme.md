@@ -1,11 +1,11 @@
 #reelo assignment
-download code
-npm i
-nodemon index.js
+#download code
+#npm i
+#nodemon index.js
 
-// get API
-http://localhost:3000/get
-//demo data
+#// get API
+#http://localhost:3000/get
+#//demo data
 {
     "marks":"100",
     "difficulty":{
